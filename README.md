@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Abhi</h1>
 <h3 align="center">Front End developer and part time shutterbug.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devabhixda" alt="devabhixda" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devabhixda" alt="devabhixda" /> </p>
 
 <!--
 **devabhixda/devabhixda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
