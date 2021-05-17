@@ -1,5 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Abhi</h1>
-<h3 align="center">Front End developer and part time shutterbug.</h3>
+<p align="center"> <img src="https://github.com/devabhixda/devabhixda/blob/master/cover.png" alt="devabhixda's cover" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devabhixda" alt="devabhixda" /> </p>
 
 <!--
