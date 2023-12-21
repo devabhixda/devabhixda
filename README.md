@@ -2,10 +2,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devabhixda" alt="devabhixda" /> </p>
 
 ## 👦 About Me
-- 🔭 I’m currently working on https://github.com/OzoneApps
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Mobile apps
-- 💬 Ask me about Flutter, React, AOSP
 - 📫 How to reach me: https://t.me/devabhi
 
 ## 📚 My Skills
